@@ -1,6 +1,12 @@
 ## Laravel Foundation Http Component
 
-This is an extraction of [https://github.com/laravel/framework/tree/v5.7.5/src/Illuminate/Foundation/Http/](https://github.com/laravel/framework/tree/v5.7.5/src/Illuminate/Foundation/Http/)
+This is an extraction of [https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Http/](https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Http/)
+
+### Installation
+
+```bash
+composer require laravel-foundation/http
+```
 
 
 ### Issues
